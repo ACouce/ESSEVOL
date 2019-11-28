@@ -1,10 +1,5 @@
-# .. This program simulates the serial passage of an asexual population in an environment in which only one beneficial
-# .. mutation with selection coefficient 's' is available. Mutator individuals (y) are being generated from wild-type
-# .. cells (x) at a rate 'mu_m'. These mutators not only exhibit a mutation rate increased by a factor of 'm', but also 
-# .. change the effect of the beneficial mutation by a factor of 'sig'. The simulation ends when the beneficial mutation 
-# .. is completely fixed in either background. 
-# .. Reference:
-# .. Couce, A.; Guelfo, J.R. and Blazquez J.(2012). 'Mutational Spectrum Drives the Rise of Mutator Bacteria'. PLoS Genet.
+# .. This program simulates the serial passage of an asexual population in a fluctuating environment in which specialist and generalist mutants can emerge (see README).
+# .. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 750129 https://cordis.europa.eu/project/rcn/209320/factsheet/es
 
   #rm(list=ls())
 
