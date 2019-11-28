@@ -5,5 +5,3 @@
   points(c(1:t),yi_t[1:t,1],type='o',col='cyan', cex=0.75) #int generalist
   points(c(1:t),yb_t[1:t,1],type='o',col='magenta', cex=0.75) # bet-hedger1
   points(c(1:t),yb_t[1:t,2],type='o',col='grey', cex=0.75)  # bet-hedger2
-
-#worth considering a ultra-motile specialist, after actually observing some of these?
